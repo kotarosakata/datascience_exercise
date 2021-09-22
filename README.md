@@ -1,1 +1,2 @@
 # datascience_exercise
+なんかやってみたやつ
